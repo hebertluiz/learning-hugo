@@ -1,0 +1,4 @@
+baseURL = 'http://site.hev.dev.br/learning-hugo/'
+languageCode = 'pt-br'
+title = 'Aprendendo Hugo'
+theme = "hevugo"
